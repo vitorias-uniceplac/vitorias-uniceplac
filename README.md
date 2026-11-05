@@ -39,11 +39,14 @@ Muitas mulheres não reconhecem a violência que sofrem, não conhecem seus dire
 
 ## 👥 Equipe
 
-<div align="center">
-<img src="assets/equipe.jpeg" alt="Equipe do projeto Vitórias" width="45%" />
-</div>
+<table>
+<tr>
+<td width="200" valign="middle">
 
-<br/>
+<img src="assets/equipe.jpeg" alt="Equipe do projeto Vitórias" width="200" />
+
+</td>
+<td valign="middle">
 
 | Integrante | Papel |
 |---|---|
@@ -55,6 +58,10 @@ Muitas mulheres não reconhecem a violência que sofrem, não conhecem seus dire
 | Claudio Manoel Silva Dourado Morais | Tester |
 
 **Orientador:** Prof. Romulo Valadares
+
+</td>
+</tr>
+</table>
 
 <br/>
 
