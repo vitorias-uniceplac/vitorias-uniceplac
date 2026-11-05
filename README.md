@@ -43,7 +43,7 @@ Muitas mulheres não reconhecem a violência que sofrem, não conhecem seus dire
 <tr>
 <td width="200" valign="middle">
 
-<img src="assets/equipe.jpeg" alt="Equipe do projeto Vitórias" width="200" />
+<img src="assets/equipe-foto.jpeg" alt="Equipe do projeto Vitórias" width="200" />
 
 </td>
 <td valign="middle">
