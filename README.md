@@ -40,7 +40,7 @@ Muitas mulheres não reconhecem a violência que sofrem, não conhecem seus dire
 ## 👥 Equipe
 
 <div align="center">
-<img src="assets/equipe.jpeg" alt="Equipe do projeto Vitórias" width="100%" />
+<img src="assets/equipe.jpeg" alt="Equipe do projeto Vitórias" width="45%" />
 </div>
 
 <br/>
